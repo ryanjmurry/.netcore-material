@@ -1,0 +1,14 @@
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.csprojAssemblyReference.cache
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.csproj.CoreCompileInputs.cache
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.RazorAssemblyInfo.cache
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.RazorAssemblyInfo.cs
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.AssemblyInfoInputs.cache
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.AssemblyInfo.cs
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/bin/Debug/netcoreapp2.1/EMPTY.deps.json
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/bin/Debug/netcoreapp2.1/EMPTY.runtimeconfig.json
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/bin/Debug/netcoreapp2.1/EMPTY.runtimeconfig.dev.json
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/bin/Debug/netcoreapp2.1/EMPTY.dll
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/bin/Debug/netcoreapp2.1/EMPTY.pdb
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.RazorTargetAssemblyInfo.cache
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.dll
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.pdb
