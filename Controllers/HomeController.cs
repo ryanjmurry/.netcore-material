@@ -13,7 +13,7 @@ namespace EMPTY.Controllers
         // GET: /<controller>/
         public IActionResult Index()
         {
-            return Ok("Ok, this is working now!");
+            return View();
         }
 
         public IActionResult Welcome()

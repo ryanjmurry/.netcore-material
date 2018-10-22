@@ -38,6 +38,8 @@ namespace EMPTY
             {
                 await context.Response.WriteAsync("Hello World!");
             });
+
+            app.UseStaticFiles();
         }
     }
 }

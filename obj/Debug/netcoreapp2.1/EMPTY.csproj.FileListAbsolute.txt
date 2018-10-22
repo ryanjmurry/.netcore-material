@@ -12,3 +12,13 @@
 /Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.RazorTargetAssemblyInfo.cache
 /Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.dll
 /Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.pdb
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.TagHelpers.input.cache
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.TagHelpers.output.cache
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.RazorCoreGenerate.cache
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.RazorTargetAssemblyInfo.cs
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/bin/Debug/netcoreapp2.1/EMPTY.Views.dll
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/bin/Debug/netcoreapp2.1/EMPTY.Views.pdb
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.Views.pdb
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/EMPTY.csproj.CopyComplete
+/Users/ryanmurry/Desktop/Projects/trupp/tutorials/EMPTY/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
